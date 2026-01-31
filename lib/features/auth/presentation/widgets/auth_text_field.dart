@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../../../../core/utils/responsive_utils.dart';
 
 /// Custom text field widget for authentication forms
 class AuthTextField extends StatelessWidget {
